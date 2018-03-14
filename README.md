@@ -1,2 +1,2 @@
 # Meglish-CC
-Website prototype for the Meglish cCnversation College
+Website prototype for the Meglish Conversation College
