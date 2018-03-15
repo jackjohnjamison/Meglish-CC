@@ -55,6 +55,7 @@ nav img {
 .call-button {
     color: white;
     background: linear-gradient(red, black);
+    box-shadow: 0 5px 6px -4px black;
     border-radius: 1em;
     padding: 0.5em;
 }
