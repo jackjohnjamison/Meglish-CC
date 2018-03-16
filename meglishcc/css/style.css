@@ -66,7 +66,7 @@ nav img {
 
 .services {
     height: 40em;
-    background: lightgreen;
+    background: #eee;
     width: 100%;
 }
 
@@ -96,7 +96,7 @@ nav img {
 
 .ball-center {
     position: absolute;
-    top: 0.2em;
+    top: 0.25em;
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -104,7 +104,19 @@ nav img {
 }
 
 .red-ball {
-    background: red;
+    background: hotpink;
+}
+
+.blue-ball {
+    background: lightblue;
+}
+
+.green-ball {
+    background: lightgreen;
+}
+
+.yellow-ball {
+    background: yellow;
 }
 
 /************************************************************************************
